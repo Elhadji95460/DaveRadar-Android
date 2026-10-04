@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="radar_bg">#040A14</color>
+    <color name="radar_neon">#00FF9F</color>
+    <color name="black">#000000</color>
+</resources>

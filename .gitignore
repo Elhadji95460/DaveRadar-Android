@@ -1,0 +1,23 @@
+# Artefacts de compilation
+build/
+.gradle/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Configuration propre a la machine (chemin du SDK)
+local.properties
+
+# Journaux
+*.log
+
+# macOS
+.DS_Store
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/

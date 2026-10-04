@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thème sombre minimal (Compose gère son propre thème par-dessus).
+         On évite ainsi la dépendance com.google.android.material. -->
+    <style name="Theme.DaveRadar" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/radar_bg</item>
+        <item name="android:statusBarColor">@color/radar_bg</item>
+        <item name="android:navigationBarColor">@color/radar_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
